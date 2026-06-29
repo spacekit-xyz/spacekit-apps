@@ -1,4 +1,4 @@
-# The Spacekit App Specification
+# The SpaceKit App Specification
 
 **Version 0.2 — Draft**
 

@@ -1,4 +1,4 @@
-# The Spacekit Target Profile
+# The SpaceKit App Profile
 
 **Version 0.2: Draft.** Companion to *The Spacekit Specification v0.2*.
 
