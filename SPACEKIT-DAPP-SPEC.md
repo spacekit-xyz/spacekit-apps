@@ -1,4 +1,4 @@
-# The Spacekit dApp Specification
+# The SpaceKit dApp Specification
 
 **Version 0.2: Draft.** Extends *The Spacekit Specification v0.2* and supersedes *dApp Specification v0.1*.
 
